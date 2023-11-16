@@ -15,4 +15,4 @@ function daysOfAYear(year){
 	}
 }
 let year=prompt();
-alert(daysOfAYear(year));
+daysOfAYear(year);
