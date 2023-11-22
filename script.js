@@ -13,6 +13,9 @@ function daysOfAYear(year){
 	}else{
 		return 365;
 	}
+
 }
 let year=prompt();
+alert(daysOfAYear(year));
+
 daysOfAYear(year);
